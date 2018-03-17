@@ -13,7 +13,7 @@ Contributions are welcome in the form of pull requests :D
 * [BusBlaster](http://dangerousprototypes.com/docs/Bus_Blaster)
 * [AVRISP mkII](http://www.microchip.com/developmenttools/productdetails.aspx?partno=atavrisp2)
 * [JTAGulator](http://www.grandideastudio.com/jtagulator/)
-* [TL866 Universal Programmer](http://autoelectric.cn/EN/TL866_main.html
+* [TL866 Universal Programmer](http://autoelectric.cn/EN/TL866_main.html)
 
 ### Signal Analysis/Generation
 
@@ -25,7 +25,7 @@ Contributions are welcome in the form of pull requests :D
 #### Sniffers/Generators/Protocol Analyzers/Multi-tools
 * [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate)
 * [GoodFET](http://goodfet.sourceforge.net/)
-* [GreatFET]https://greatscottgadgets.com/greatfet/)
+* [GreatFET](https://greatscottgadgets.com/greatfet/)
 * [Beagle USB Analyzers](https://www.totalphase.com/protocols/usb/protocol-analyzers/)
 * [Aardvark I2C/SPI Host Adapter](https://www.totalphase.com/products/aardvark-i2cspi/)
 * [Cheetah SPI Host Adapter](https://www.totalphase.com/products/cheetah-spi/)
